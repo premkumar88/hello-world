@@ -6,3 +6,6 @@ my first repository on github
 how about some changes over here. 
 
 another change.
+
+some more changes
+
